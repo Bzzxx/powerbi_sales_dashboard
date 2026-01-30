@@ -4,6 +4,10 @@
 This project presents an interactive **Sales Dashboard** built in **Power BI**.  
 The goal was to analyze sales performance across time, regions, brands, and product categories, and to present key business metrics in a clear, executive-friendly layout.
 
+Interactive dashboard presented here🔗 **[Sales_Report](https://drive.google.com/file/d/1YUYj4MmuKGqPKeM4GIX2BXcR7yr7wyH5/view?usp=sharing)**
+
+![Dashboard Overview](screenshots/01_overview.png)
+
 ---
 
 ## Business Questions Addressed
@@ -22,7 +26,7 @@ The goal was to analyze sales performance across time, regions, brands, and prod
 - **Total Sales Amount**
 
 All KPIs are displayed using unified formatting for better readability and comparison.
-![Dashboard Overview](screenshots/01_overview.png)
+
 ---
 
 ## Dashboard Features
@@ -37,12 +41,6 @@ All KPIs are displayed using unified formatting for better readability and compa
   - Customer
 - “Clear all slicers” button for quick reset
 - Custom layout with rounded containers and accent color styling
-
----
-
-### Overview
-This dashboard was created without publishing to Power BI Service. 
-Interactive dashboard presented here🔗 **[Sales_Report](https://drive.google.com/file/d/1YUYj4MmuKGqPKeM4GIX2BXcR7yr7wyH5/view?usp=sharing)**
 
 ---
 
