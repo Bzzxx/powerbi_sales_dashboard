@@ -4,7 +4,7 @@
 This project presents an interactive **Sales Dashboard** built in **Power BI**.  
 The goal was to analyze sales performance across time, regions, brands, and product categories, and to present key business metrics in a clear, executive-friendly layout.
 
-Interactive dashboard presented here🔗 **[Sales_Report](Sales_Report.pbix)**
+Interactive dashboard presented here🔗 **[Sales_Report](https://drive.google.com/file/d/1YUYj4MmuKGqPKeM4GIX2BXcR7yr7wyH5/view?usp=drive_link)**
 
 ![Dashboard Overview](screenshots/01_overview.png)
 
